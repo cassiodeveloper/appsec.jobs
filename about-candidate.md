@@ -7,7 +7,7 @@ Hi.
 
 Here as a candidate you will find all instructions about the site, specially how to apply for a job opportunity.
 
-If you are a company, please visit [the company page](/about.md).
+- If you are a company, please visit [the company page](/about.md).
 
 Here you have the FAQ:
 
