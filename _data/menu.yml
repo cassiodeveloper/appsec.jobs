@@ -10,7 +10,8 @@ entries:
 
   - title: jobs by region
     post_list:
-      category: Europe
+      limit: 10
+      category: europe
       show_more: true
       show_more_text: See more jobs...
       show_more_url: example2-archive.html
