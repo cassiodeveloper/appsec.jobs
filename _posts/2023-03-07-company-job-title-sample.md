@@ -7,9 +7,9 @@ His is the job opportunity description His is the job opportunity description Hi
 
 # Opportunity details
 
-| Location        | Contract     | Type        |
+| Location :world_map: | Contract :memo: | Type        | Other |
 | -------------   |------------- |-------------|      
-| City - Country  | Contract - B2B - Other | Remote - Hibryd - In person |
+| City - Country :eu:  | Contract - B2B - Other | Remote :house: - Hibryd :office: - In person :pushpin: | :wheelchair: |
 
 # Responsibilities
 ## What we expect from you:
