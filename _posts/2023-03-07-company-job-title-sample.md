@@ -11,39 +11,39 @@ His is the job opportunity description His is the job opportunity description Hi
 | -------------   |------------- |-------------|      
 | City - Country :eu:  | Contract - B2B - Other | Remote :house: - Hibryd :office: - In person :pushpin: | :wheelchair: |
 
-# Responsibilities
+# Responsibilities :heavy_check_mark:
 ## What we expect from you:
 
-- Item.
-- Item.
-- Item.
-- Item.
-- Item.
+- [x] Item.
+- [x] Item.
+- [x] Item.
+- [x] Item.
+- [x] Item.
 
-# Requirements
+# Requirements :heavy_check_mark:
 ## What you must have:
 
-- Item.
-- Item.
-- Item.
-- Item.
-- Item.
+- [x] Item.
+- [x] Item.
+- [x] Item.
+- [x] Item.
+- [x] Item.
 
-## Extra
-
-- Item.
-- Item.
-- Item.
-- Item.
-
-### Adicional informations
+## Extra :smiling_face_with_three_hearts:
 
 - Item.
 - Item.
 - Item.
 - Item.
 
-# Benefits
+### Adicional informations :heavy_plus_sign:
+
+- Item.
+- Item.
+- Item.
+- Item.
+
+# Benefits :briefcase:
 ## What do we offer
 
 - Item.
@@ -55,7 +55,7 @@ His is the job opportunity description His is the job opportunity description Hi
 - Item.
 - Item.
 
-## Salary
+## Salary :moneybag:
 ### US$ 0.000.000,00
 
 # More about company
@@ -65,8 +65,8 @@ His is the job opportunity description His is the job opportunity description Hi
 - [Instagram](http://appsec.job)
 - [Twitter](http://appsec.job)
 
-### Apply to this position
+### Apply to this position :love_letter:
 
-[Here you can apply directly for this position](http://appsec.job)
+[Here you can apply directly for this position](http://appsec.jobs)
 
-![Company Logo](http://appsec.jobs/logo.png)
+![Company Logo](/logo.png)
