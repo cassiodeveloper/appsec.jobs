@@ -8,13 +8,53 @@ entries:
       show_more_text: See all...
       show_more_url: archive.html
 
-  - title: jobs by region
+  - title: jobs from Europe
     post_list:
-      limit: 10
-      category: example
+      limit: 5
+      category: europe
       show_more: true
       show_more_text: See more jobs...
-      show_more_url: example2-archive.html
+      show_more_url: example2-archive.html 
+
+  - title: jobs from North America
+    post_list:
+      limit: 5
+      category: europe
+      show_more: true
+      show_more_text: See more jobs...
+      show_more_url: example2-archive.html 
+
+  - title: jobs from South America
+    post_list:
+      limit: 5
+      category: europe
+      show_more: true
+      show_more_text: See more jobs...
+      show_more_url: example2-archive.html       
+
+  - title: jobs from Central America
+    post_list:
+      limit: 5
+      category: europe
+      show_more: true
+      show_more_text: See more jobs...
+      show_more_url: example2-archive.html 
+
+  - title: jobs from Asia
+    post_list:
+      limit: 5
+      category: europe
+      show_more: true
+      show_more_text: See more jobs...
+      show_more_url: example2-archive.html 
+
+  - title: jobs from Africa
+    post_list:
+      limit: 5
+      category: europe
+      show_more: true
+      show_more_text: See more jobs...
+      show_more_url: example2-archive.html 
 
   - title: rss
     url: feed.xml
