@@ -1,4 +1,4 @@
-title: AppSec JOBS # name of the site
+title: AppSec jobs # name of the site
 author: Cássio Pereira # name of site's author
 email: contact@appsec.jobs # email of site's author
 url: http://appsec.jobs # root address of the site
@@ -17,7 +17,7 @@ theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "<--" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed
