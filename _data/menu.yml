@@ -1,12 +1,12 @@
 entries:
-  - title: all jobs
+  - title: All AppSec jobs
     post_list:
       limit: 10
       show_more: true
       show_more_text: See all...
       show_more_url: archive.html
 
-  - title: jobs from Africa
+  - title: AppSec jobs from Africa
     post_list:
       limit: 5
       category: africa
@@ -14,7 +14,7 @@ entries:
       show_more_text: See more jobs from Africa...
       show_more_url: archive.html 
 
-  - title: jobs from Asia
+  - title: AppSec jobs from Asia
     post_list:
       limit: 5
       category: asia
@@ -22,7 +22,7 @@ entries:
       show_more_text: See more jobs from Asia...
       show_more_url: archive.html 
 
-  - title: jobs from Central America
+  - title: AppSec jobs from Central America
     post_list:
       limit: 5
       category: central
@@ -30,7 +30,7 @@ entries:
       show_more_text: See more jobs from Central America...
       show_more_url: archive.html 
 
-  - title: jobs from Europe
+  - title: AppSec jobs from Europe
     post_list:
       limit: 5
       category: europe
@@ -38,7 +38,7 @@ entries:
       show_more_text: See more jobs from Europe...
       show_more_url: archive.html 
 
-  - title: jobs from North America
+  - title: AppSec jobs from North America
     post_list:
       limit: 5
       category: north
@@ -46,7 +46,7 @@ entries:
       show_more_text: See more jobs from North America...
       show_more_url: archive.html 
 
-  - title: jobs from South America
+  - title: AppSec jobs from South America
     post_list:
       limit: 5
       category: south
@@ -54,5 +54,5 @@ entries:
       show_more_text: See more jobs from South America...
       show_more_url: archive.html       
 
-  - title: rss
+  - title: RSS
     url: feed.xml
