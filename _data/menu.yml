@@ -8,53 +8,53 @@ entries:
       show_more_text: See all...
       show_more_url: archive.html
 
-  - title: jobs from Europe
+  - title: jobs from Africa
     post_list:
       limit: 5
-      category: europe
+      category: africa
       show_more: true
-      show_more_text: See more jobs...
-      show_more_url: example2-archive.html 
-
-  - title: jobs from North America
-    post_list:
-      limit: 5
-      category: europe
-      show_more: true
-      show_more_text: See more jobs...
-      show_more_url: example2-archive.html 
-
-  - title: jobs from South America
-    post_list:
-      limit: 5
-      category: europe
-      show_more: true
-      show_more_text: See more jobs...
-      show_more_url: example2-archive.html       
-
-  - title: jobs from Central America
-    post_list:
-      limit: 5
-      category: europe
-      show_more: true
-      show_more_text: See more jobs...
+      show_more_text: See more jobs from Africa...
       show_more_url: example2-archive.html 
 
   - title: jobs from Asia
     post_list:
       limit: 5
-      category: europe
+      category: asia
       show_more: true
-      show_more_text: See more jobs...
+      show_more_text: See more jobs from Asia...
       show_more_url: example2-archive.html 
 
-  - title: jobs from Africa
+  - title: jobs from Central America
+    post_list:
+      limit: 5
+      category: central
+      show_more: true
+      show_more_text: See more jobs from Central America...
+      show_more_url: example2-archive.html 
+
+  - title: jobs from Europe
     post_list:
       limit: 5
       category: europe
       show_more: true
-      show_more_text: See more jobs...
+      show_more_text: See more jobs from Europe...
       show_more_url: example2-archive.html 
+
+  - title: jobs from North America
+    post_list:
+      limit: 5
+      category: north
+      show_more: true
+      show_more_text: See more jobs from North America...
+      show_more_url: example2-archive.html 
+
+  - title: jobs from South America
+    post_list:
+      limit: 5
+      category: south
+      show_more: true
+      show_more_text: See more jobs from South America...
+      show_more_url: example2-archive.html       
 
   - title: rss
     url: feed.xml
