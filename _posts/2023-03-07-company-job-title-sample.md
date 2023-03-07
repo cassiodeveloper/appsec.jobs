@@ -12,7 +12,6 @@ His is the job opportunity description His is the job opportunity description Hi
 | City - Country  | Contract - B2B - Other | Remote - Hibryd - In person |
 
 # Responsibilities
-
 ## What we expect from you:
 
 - Item.
@@ -22,7 +21,6 @@ His is the job opportunity description His is the job opportunity description Hi
 - Item.
 
 # Requirements
-
 ## What you must have:
 
 - Item.
@@ -46,7 +44,6 @@ His is the job opportunity description His is the job opportunity description Hi
 - Item.
 
 # Benefits
-
 ## What do we offer
 
 - Item.
@@ -59,7 +56,6 @@ His is the job opportunity description His is the job opportunity description Hi
 - Item.
 
 ## Salary
-
 ### US$ 0.000.000,00
 
 # More about company
