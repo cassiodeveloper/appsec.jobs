@@ -12,52 +12,52 @@ entries:
       show_more_text: See all...
       show_more_url: archive.html
 
-  - title: Latest AppSec jobs from Africa
+  - title: Latest AppSec jobs in Africa
     post_list:
       limit: 5
       category: africa
       show_more: true
-      show_more_text: See more jobs from Africa...
+      show_more_text: See more jobs in Africa...
       show_more_url: archive.html 
 
-  - title: Latest AppSec jobs from Asia
+  - title: Latest AppSec jobs in Asia
     post_list:
       limit: 5
       category: asia
       show_more: true
-      show_more_text: See more jobs from Asia...
+      show_more_text: See more jobs in Asia...
       show_more_url: archive.html 
 
-  - title: Latest AppSec jobs from Central America
+  - title: Latest AppSec jobs in Central America
     post_list:
       limit: 5
       category: central
       show_more: true
-      show_more_text: See more jobs from Central America...
+      show_more_text: See more jobs in Central America...
       show_more_url: archive.html 
 
-  - title: Latest AppSec jobs from Europe
+  - title: Latest AppSec jobs in Europe
     post_list:
       limit: 5
       category: europe
       show_more: true
-      show_more_text: See more jobs from Europe...
+      show_more_text: See more jobs in Europe...
       show_more_url: archive.html 
 
-  - title: Latest AppSec jobs from North America
+  - title: Latest AppSec jobs in North America
     post_list:
       limit: 5
       category: north
       show_more: true
-      show_more_text: See more jobs from North America...
+      show_more_text: See more jobs in North America...
       show_more_url: archive.html 
 
-  - title: Latest AppSec jobs from South America
+  - title: Latest AppSec jobs in South America
     post_list:
       limit: 5
       category: south
       show_more: true
-      show_more_text: See more jobs from South America...
+      show_more_text: See more jobs in South America...
       show_more_url: archive.html       
 
   - title: RSS
