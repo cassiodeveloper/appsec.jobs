@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-This is an example page!
+Hi.
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+Here as a candidate you will find all instructions about the site, specially how to apply for a job opportunity.
