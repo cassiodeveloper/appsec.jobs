@@ -29,4 +29,4 @@ Here you have the FAQ:
     - [X] Title: REMOVE - YOU COMPANY NAME
     - [X] URL: Link to the post that you want to remove
 - # Couldn't find help?
-  - [Contact us](mailto:contact@appsec.jobs)
+  - [Contact me](mailto:contact@appsec.jobs)

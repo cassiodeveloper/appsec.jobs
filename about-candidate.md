@@ -27,4 +27,4 @@ Here you have the FAQ:
     - [X] You like to spend money for no reason.
     - [Support here!](https://www.buymeacoffee.com/cassiodeveloper)
 - # Couldn't find help?
-  - [Contact us](mailto:contact@appsec.jobs)
+  - [Contact me](mailto:contact@appsec.jobs)
