@@ -13,7 +13,7 @@ Gostou do desafio? Curtiu nosso jeito de ser? Entao, venha fazer parte do nosso 
 # Opportunity details
 | Location :world_map: | Contract :memo: | Type        | Other |
 | -------------   |------------- |-------------|      
-| São Paulo - Brasil  | CLT | Remote |  |
+| São Paulo - Brasil  | CLT | Remote | Nao |
 # Responsibilities :heavy_check_mark:
 ## What we expect from you:
 - Atuar de maneira consultiva e orientativa junto aos nossos clientes
