@@ -57,7 +57,7 @@ Gostou do desafio? Curtiu nosso jeito de ser? Entao, venha fazer parte do nosso 
 - Ajuda de custo Home office - para te ajudar no periodo remoto
 - Gympass - para seu bem-estar fisico e emocional.
 ## Salary :moneybag:
-###BRL
+### BRL
 # More about company
 Atuamos na area de seguranca em Tecnologia da Informacao visando a otimizacao de processos no desenvolvimento e operacao de sistemas, e o uso de todo o potencial de solucoes voltadas para este fim. 
 
