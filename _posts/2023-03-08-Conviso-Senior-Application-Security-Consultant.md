@@ -19,9 +19,10 @@ Se identificou conosco e quer trabalhar em um ambiente de aprendizado constante,
 
 Vem pra Conviso!
 # Opportunity details
+
 | Location :world_map: | Contract :memo: | Type        | Other |
 | -------------   |------------- |-------------|      
-| Curitiba - Brasil  | CLT | Remote :house: | :wheelchair: |
+| Curitiba - Brasil    | CLT                    | Remote :house:                                         | :wheelchair: |
 
 # Responsibilities :heavy_check_mark:
 ## What we expect from you:
