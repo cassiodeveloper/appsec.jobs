@@ -55,7 +55,7 @@ entries:
   - title: Latest AppSec jobs in South America
     post_list:
       limit: 5
-      category: south
+      category: South America
       show_more: true
       show_more_text: See more jobs in South America...
       show_more_url: archive.html       
