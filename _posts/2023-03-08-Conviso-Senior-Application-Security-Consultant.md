@@ -21,7 +21,8 @@ Vem pra Conviso!
 # Opportunity details
 | Location :world_map: | Contract :memo: | Type        | Other |
 | -------------   |------------- |-------------|      
-| Curitiba - Brasil  | CLT | Remote | PCD |
+| Curitiba - Brasil  | CLT | Remote :house: | :wheelchair: |
+
 # Responsibilities :heavy_check_mark:
 ## What we expect from you:
 - Desenvolver um olhar holistico e geral sobre o processo do cliente;
@@ -73,7 +74,7 @@ Alem de trabalhar em uma empresa onde voce pode se desenvolver enquanto faz part
 - Time off to pet care;
 - Qualidade de vida, horario semi-flexivel e trabalho 100% remoto, isso mesmo, anywhere office.
 ## Salary :moneybag:
-###BRL
+### BRL
 # More about company
 - Culture Code
 - Blog 
