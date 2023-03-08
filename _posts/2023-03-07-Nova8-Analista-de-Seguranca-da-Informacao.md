@@ -15,6 +15,7 @@ Gostou do desafio? Curtiu nosso jeito de ser? Entao, venha fazer parte do nosso 
 | Location :world_map: | Contract :memo: | Type        | Other |
 | -------------   |------------- |-------------|      
 | São Paulo - Brasil  | CLT | Remote | Nao |
+
 # Responsibilities :heavy_check_mark:
 ## What we expect from you:
 - Atuar de maneira consultiva e orientativa junto aos nossos clientes
@@ -27,6 +28,7 @@ Gostou do desafio? Curtiu nosso jeito de ser? Entao, venha fazer parte do nosso 
 - Acompanhar atualizacoes de cronogramas de projetos
 - Elaborar e revisar documentacoes pertinentes a area
 - Apoiar nossos clientes a obterem um Programa de Security Champions
+
 # Requirements :heavy_check_mark:
 ## What you must have:
 - Graduacao em Seguranca da Informacao, Ciencias da Computacao, ADS ou areas afins
@@ -38,10 +40,12 @@ Gostou do desafio? Curtiu nosso jeito de ser? Entao, venha fazer parte do nosso 
 - Perfil analitico, flexivel, organizado e diplomatico
 - Habilidades como gestao do tempo, trabalho em equipe, senso de urgencia e proatividade
 - O bom relacionamento interpessoal aqui na Nova8 e parte essencial do nosso dia-a-dia 
+
 ## Extra :smiling_face_with_three_hearts:
 - Certificacoes na area de Security
 - Ter atuado em consultorias e projetos
 - Ingles avancado/fluente
+
 ### Adicional informations :heavy_plus_sign:
 
 # Benefits :briefcase:
@@ -57,14 +61,17 @@ Gostou do desafio? Curtiu nosso jeito de ser? Entao, venha fazer parte do nosso 
 - Nova8 Academy, treinamentos e cursos - para contribuir com seu desenvolvimento
 - Ajuda de custo Home office - para te ajudar no periodo remoto
 - Gympass - para seu bem-estar fisico e emocional.
+
 ## Salary :moneybag:
 ### BRL
+
 # More about company
 Atuamos na area de seguranca em Tecnologia da Informacao visando a otimizacao de processos no desenvolvimento e operacao de sistemas, e o uso de todo o potencial de solucoes voltadas para este fim. 
 
 Para atingir isto, nos associamos a empresas e fornecedores de software que sao considerados as maiores autoridades na area, trazendo para o mercado local a metodologia, os processos e as ferramentas criados nos maiores e melhores centros de inovacao do mundo.
 
 Munidos destes recursos, nosso compromisso e fomentar o crescimento empresarial, de forma etica e justa, com profissionalismo, dedicacao e respeito aos nossos colaboradores e clientes, agregando valor real aos negocios atraves de solucoes tecnologicas de ponta e que contribuem para a evolucao empresarial.
+
 ### Apply to this position :love_letter:
 [Here you can apply directly for this position](https://nova8.gupy.io/job/eyJzb3VyY2UiOiJndXB5X3B1YmxpY19wYWdlIiwiam9iSWQiOjQwODE1MTF9)
 ![Company Logo](https://www.nova8.com.br/2022/wp-content/uploads/2022/05/NOVA_8_BRANCO-01-1.png)
