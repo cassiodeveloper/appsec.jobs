@@ -12,9 +12,9 @@ Somos apaixonados por solucoes em DevSecOps e movidos por desafios! Temos um tim
 Gostou do desafio? Curtiu nosso jeito de ser? Entao, venha fazer parte do nosso time!
 # Opportunity details
 
-| Location :world_map: | Contract :memo: | Type        | Other |
-| -------------   |------------- |-------------|      
-| Sao Paulo - Brasil  | CLT | Remote | Nao |
+| Location :world_map: | Contract :memo: | Type   | Other |
+| -------------------- | --------------- | ------ |
+| Sao Paulo - Brasil   | CLT             | Remote | Nao   |
 
 # Responsibilities :heavy_check_mark:
 ## What we expect from you:
