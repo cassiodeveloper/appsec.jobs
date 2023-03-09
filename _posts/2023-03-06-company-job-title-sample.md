@@ -67,6 +67,6 @@ His is the job opportunity description His is the job opportunity description Hi
 
 ### Apply to this position :love_letter:
 
-[Here you can apply directly for this position](http://appsec.jobs)
+### [Here you can apply directly for this position](http://appsec.jobs)
 
 ![Company Logo](/logo.png)
