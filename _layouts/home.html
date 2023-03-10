@@ -2,7 +2,10 @@
 layout: default
 ---
 <header>
-  <h1>{{ site.title }}</h1>
+  <h1>
+    <img class="logo" src="logo.png" title="Logo AppSec Jobs" alt="AppSec Jobs" />
+    {{ site.title }}
+  </h1>
   {%-if site.theme_config.show_description-%}
     <p>{{ site.description }}</p>
   {%-endif-%}
